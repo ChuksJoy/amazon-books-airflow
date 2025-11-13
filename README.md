@@ -11,7 +11,7 @@
 
 This project is a **hands-on data engineering exercise** where I built an **ETL pipeline** using **Apache Airflow**, **PostgreSQL**, and **Python** to extract, transform, and load Amazon books data.
 
->  *This project was inspired by a YouTube tutorial by Data with Marc.*  
+>  *This project was inspired by a YouTube tutorial by Sunjana in Data.*  
 > Watch it here: [Build a Data Pipeline with Apache Airflow](https://www.youtube.com/watch?v=3xyoM28B40Y)
 
 The goal was to understand how to orchestrate data workflows with Airflow and integrate different tools in a practical project setup.
